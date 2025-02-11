@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+llama-venv/
 
 # Spyder project settings
 .spyderproject
@@ -173,3 +174,4 @@ output/
 wandb/
 swanlog/
 generated_predictions.jsonl
+data/
