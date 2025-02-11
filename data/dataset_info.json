@@ -1,4 +1,13 @@
 {
+  "qwen_data": {
+    "file_name": "qwen_data.json",
+    "formatting": "alpaca",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },

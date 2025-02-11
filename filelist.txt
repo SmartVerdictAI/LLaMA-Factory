@@ -1,0 +1,11 @@
+https://huggingface.co/Qwen/Qwen2.5-72B/resolve/main/model-00028-of-00037.safetensors
+https://huggingface.co/Qwen/Qwen2.5-72B/resolve/main/model-00029-of-00037.safetensors
+https://huggingface.co/Qwen/Qwen2.5-72B/resolve/main/model-00030-of-00037.safetensors
+https://huggingface.co/Qwen/Qwen2.5-72B/resolve/main/model-00031-of-00037.safetensors
+https://huggingface.co/Qwen/Qwen2.5-72B/resolve/main/model-00032-of-00037.safetensors
+https://huggingface.co/Qwen/Qwen2.5-72B/resolve/main/model-00033-of-00037.safetensors
+https://huggingface.co/Qwen/Qwen2.5-72B/resolve/main/model-00034-of-00037.safetensors
+https://huggingface.co/Qwen/Qwen2.5-72B/resolve/main/model-00035-of-00037.safetensors
+https://huggingface.co/Qwen/Qwen2.5-72B/resolve/main/model-00036-of-00037.safetensors
+https://huggingface.co/Qwen/Qwen2.5-72B/resolve/main/model-00037-of-00037.safetensors
+
