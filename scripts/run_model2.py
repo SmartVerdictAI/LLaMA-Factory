@@ -69,5 +69,5 @@ with open("/home/azureuser/LLaMA-Factory/scripts/prompt.txt", "r") as file:
 response = chat(prompt)
 
 # Write output to file
-with open("/home/azureuser/LLaMA-Factory/scripts/output.txt", "w") as file:
+with open("/home/azureuser/LLaMA-Factory/scripts/output2.txt", "w") as file:
     file.write(response)
